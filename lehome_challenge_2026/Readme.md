@@ -1,8 +1,8 @@
 # 介紹
 [Lehome Challenge 2026](https://lehome-challenge.com/) 是一場機械手臂摺衣服比賽。<br>
 共分成兩個階段，第一階段將在 Isaac Sim 中訓練並評估機械手臂去摺衣服，第二階段將會實際運用到實體。
-官方 Repo：https://github.com/lehome-official/lehome-challenge
-我的 Repo：https://github.com/alifestone/lehome-challenge_S.N.N
+- 官方 Repo：https://github.com/lehome-official/lehome-challenge
+- 我的 Repo：https://github.com/alifestone/lehome-challenge_S.N.N
 # My Journey
 這次非常有幸和 IDLab 的 [@KunHsiang](https://github.com/KunHsiang) 一起組隊（lehome-challenge_S.N.N）參與該比賽。<br>
 以下將分享整個比賽的參與過程。
